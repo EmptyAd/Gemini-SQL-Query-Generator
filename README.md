@@ -1,0 +1,1 @@
+# Gemini-SQL-Query-Generator
