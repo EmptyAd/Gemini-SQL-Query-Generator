@@ -42,5 +42,3 @@ This project converts natural language questions into correct SQLite queries usi
 - The SQLite database must match the schema described inside `sql.py`.
 - The system prompt is defined directly inside the `sql.py` file (no external prompt file).
 
-## License
-MIT License
